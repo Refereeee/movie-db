@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ccdb63b-f0b8-4205-9fab-1ec86073008f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../06-tabs/setup/src/Buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06-tabs/setup/src/Loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06-tabs/setup/src/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/Shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-birthday-reminder/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-birthday-reminder/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-birthday-reminder/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-birthday-reminder/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-birthday-reminder/setup/src/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-birthday-reminder/setup/src/List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-tours/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-tours/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-tours/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-tours/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-tours/setup/src/Tour.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-tours/setup/src/Tour.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-tours/setup/src/Tours.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-tours/setup/src/Tours.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-reviews/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-reviews/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-reviews/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-reviews/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-reviews/setup/src/Review.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-reviews/setup/src/Review.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-accordion/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-accordion/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-accordion/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-accordion/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-accordion/setup/src/Question.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-accordion/setup/src/Question.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-menu/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-menu/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-menu/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-menu/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-menu/setup/src/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-menu/setup/src/Categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-menu/setup/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-menu/setup/src/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-tabs/final/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../06-tabs/final/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-tabs/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../06-tabs/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-tabs/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../06-tabs/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-slider/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-slider/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-slider/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-slider/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-lorem-ipsum/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-lorem-ipsum/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-lorem-ipsum/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-lorem-ipsum/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-color-generator/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-color-generator/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-color-generator/setup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-color-generator/setup/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-color-generator/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-color-generator/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-color-generator/setup/src/SingleColor.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-color-generator/setup/src/SingleColor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-grocery-bud/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-grocery-bud/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-grocery-bud/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-grocery-bud/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-grocery-bud/setup/src/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-grocery-bud/setup/src/List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-navbar/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-navbar/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-navbar/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-navbar/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-navbar/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-navbar/setup/src/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-navbar/setup/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-navbar/setup/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/final/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/final/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-sidebar-modal/setup/src/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/final/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/final/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Submenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/Submenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13-stripe-submenus/setup/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/CartContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/CartContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/CartItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/CartItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-cart/setup/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-cart/setup/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/Cocktail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/Cocktail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/CocktailList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/CocktailList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/SearchForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/components/SearchForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/Error.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/Error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/SingleCocktail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15-cocktails/setup/src/pages/SingleCocktail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16-markdown-preview/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../16-markdown-preview/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16-markdown-preview/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../16-markdown-preview/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-random-person/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../17-random-person/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-random-person/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../17-random-person/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-pagination/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../18-pagination/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-pagination/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../18-pagination/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-pagination/setup/src/Follower.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../18-pagination/setup/src/Follower.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-pagination/setup/src/useFetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../18-pagination/setup/src/useFetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-pagination/setup/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../18-pagination/setup/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19-stock-photos/setup/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../19-stock-photos/setup/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19-stock-photos/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../19-stock-photos/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19-stock-photos/setup/src/Photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../19-stock-photos/setup/src/Photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/final/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/final/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/final/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/final/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/setup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/setup/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/setup/src/Article.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/setup/src/Article.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20-dark-mode/setup/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../20-dark-mode/setup/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MNPZyY2dW1xDWeuTcYruo59PYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/JS/react/react-smilga/react-projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ccdb63b-f0b8-4205-9fab-1ec86073008f" name="Changes" comment="" />
+      <created>1677605125181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677605125181</updated>
+      <workItem from="1677605126309" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
